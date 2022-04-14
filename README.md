@@ -34,14 +34,11 @@ organization that helps me grow.</p>
 
 
 <h3 align="left">Github Stats:</h3>
-
 <p align="left"> 
         <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api?username=Harsh-R-16&theme=react&show_icons=true&include_all_commits=true" />
-</p>
-<p align="left"> 
+</p><p align="left"> 
        <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-R-16&theme=react&layout=compact" />
-</p> 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-R-16&show_icons=true&locale=en" alt="Harsh Gajera" /></p>
+</p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-R-16&show_icons=true&locale=en" alt="Harsh Gajera" /></p>
 
 
 
