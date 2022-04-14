@@ -1,6 +1,17 @@
 <h1 align="center">Hi 👋, I'm Harsh Gajera</h1>
 <h3 align="center">Learning Full Stack Web Developement</h3>
 
+<p align= "center">
+<img src="https://img.shields.io/badge/Html-HTML-brown"/>
+  <img src="https://img.shields.io/badge/Css-CSS-white"/>
+<img src="https://img.shields.io/badge/JS-Javascript-red"/>
+<img src="https://img.shields.io/badge/React-React-blue"/>
+<img src="https://img.shields.io/badge/Node-node-green"/>
+<img src="https://img.shields.io/badge/express-Express-blueviolet"/>
+<img src="https://img.shields.io/badge/Mongodb-mongodb-brightgreen"/>
+</p>
+
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Harsh-R-16&label=Profile%20views&color=0e75b6&style=flat" alt="maheshguptha49" /> </p>
 
  <p align="center"><img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966"  style="max-width:100%;"/>
