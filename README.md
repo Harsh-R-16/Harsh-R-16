@@ -6,6 +6,11 @@
  <p align="center"><img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966"  style="max-width:100%;"/>
 </p>
 
+<p>Dedicated Full-Stack web developer who is passionate about learning new things.
+A good leader and a good team player. Looking forward to developing products
+that help in making people’s lives better and becoming an integral part of an
+organization that helps me grow.</p>
+
 - 🌱 I’m currently learning **MERN stack**
 
 - 👨‍💻 All of my projects are available at [Harsh Portfolio](https://harsh-r-portfolio.netlify.app/)
