@@ -20,3 +20,9 @@ organization that helps me grow.</p>
 - 📫 How to reach me **harsh.gajera17@gmail.com**
 
 - 📄 Know about my experiences [Resume ](https://drive.google.com/file/d/1-X99sbn7MiIrZevGscjVMubsAmnoDhwn/view)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/harsh-r-331b84216" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Harsh Gajera" height="30" width="40" /></a>
+<a href="https://codesandbox.com/maheshguptha49" target="_blank"><img align="center" src="https://www.svgrepo.com/show/20626/twitter.svg" alt="Harsh Gajera" height="30" width="40" /></a>
+</p>
