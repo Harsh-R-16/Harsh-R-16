@@ -35,7 +35,7 @@ organization that helps me grow.</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Harsh-R-16&show_icons=true&locale=en&layout=compact" alt="Harsh Gajera" /></p>
 <br/>
 <br/><br/>
-<br/><br/>
+<br/><br/><br/>
 <br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Harsh-R-16&show_icons=true&locale=en" alt="Harsh Gajera" /></p>
 
