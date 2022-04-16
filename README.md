@@ -23,6 +23,8 @@ A good leader and a good team player. Looking forward to developing products
 that help in making people’s lives better and becoming an integral part of an
 organization that helps me grow.</p>
 
+🌱 **About myself**<br>
+
 ✔️ 🌱 I’m currently learning **MERN stack**
 
 ✔️ 👨‍💻 All of my projects are available at [Harsh Portfolio](https://harsh-r-portfolio.netlify.app/)
