@@ -23,15 +23,15 @@ A good leader and a good team player. Looking forward to developing products
 that help in making people’s lives better and becoming an integral part of an
 organization that helps me grow.</p>
 
-- 🌱 I’m currently learning **MERN stack**
+✔️ 🌱 I’m currently learning **MERN stack**
 
-- 👨‍💻 All of my projects are available at [Harsh Portfolio](https://harsh-r-portfolio.netlify.app/)
+✔️ 👨‍💻 All of my projects are available at [Harsh Portfolio](https://harsh-r-portfolio.netlify.app/)
 
-- 💬 Ask me about **Javascript**
+✔️ 💬 Ask me about **Javascript**
 
-- 📫 How to reach me **harsh.gajera17@gmail.com**
+✔️ 📫 How to reach me **harsh.gajera17@gmail.com**
 
-- 📄 Know about my experiences [Resume ](https://drive.google.com/file/d/1-X99sbn7MiIrZevGscjVMubsAmnoDhwn/view)
+✔️ 📄 Know about my experiences [Resume ](https://drive.google.com/file/d/1-X99sbn7MiIrZevGscjVMubsAmnoDhwn/view)
 
 <h3 align="left">Connect with me:</h3>
 
