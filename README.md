@@ -49,10 +49,10 @@ organization that helps me grow.</p>
 <hr>
 <h3 align="left">📶 Github Stats:</h3>
 <p align="left"> 
-        <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api?username=Harsh-R-16&theme=react&show_icons=true&include_all_commits=true" />
+        <img height= "200px" width ="400px" src="https://github-readme-stats.vercel.app/api?username=Harsh-R-16&theme=react&show_icons=true&include_all_commits=true" />
 
   <hr>
-       <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-R-16&theme=react&layout=compact" />
+       <img height= "200px" width ="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-R-16&theme=react&layout=compact" />
 </p>
 <hr>
 
