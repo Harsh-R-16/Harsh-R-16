@@ -33,7 +33,7 @@ organization that helps me grow.</p>
 
 ✔️ 📫 How to reach me **harsh.gajera17@gmail.com**
 
-✔️ 📄 Know about my experiences [Resume ](https://drive.google.com/file/d/1-X99sbn7MiIrZevGscjVMubsAmnoDhwn/view)
+✔️ 📄 Know about my experiences [Resume ]()
 
 <h3 align="left">Connect with me:</h3>
 
