@@ -27,7 +27,7 @@ organization that helps me grow.</p>
 
 ✔️ 🌱 I’m currently learning **MERN stack**
 
-✔️ 👨‍💻 All of my projects are available at [Harsh Portfolio](https://harsh-r-portfolio.netlify.app1/)
+✔️ 👨‍💻 All of my projects are available at [Harsh Portfolio](https://harsh-r-portfolio.netlify.app/)
 
 ✔️ 💬 Ask me about **Javascript**
 
